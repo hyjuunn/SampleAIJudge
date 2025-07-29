@@ -1,0 +1,116 @@
+{
+  "prompt_filename": "v_2_0_2.yaml",
+  "dataset_version": "v2",
+  "dataset_filename": "faker_vs_jenny.json",
+  "n": 5,
+  "results": [
+    {
+      "topic_id": "686bff1d5c4d71801a08932b",
+      "win_camp_id": "686bff1d5c4d71801a08932a",
+      "ai_conclusion": "Jennie가 51프로, Faker가 49프로의 비중으로 평가되었습니다. Jennie에 대한 의견들은 그녀의 글로벌 대중성과 다양한 분야에서의 활약을 강조하고 있습니다. 특히 K-POP 열풍을 이끌고 있는 점, SNS 팔로워 수, 그리고 블랙핑크의 월드투어 규모를 통해 그녀의 대중적 인지도가 높다는 점을 강조하고 있습니다. 반면, Faker에 대한 의견들은 그의 게임계에서의 상징성과 전문성을 강조하며, 오랜 기간 정상의 자리를 지키고 있다는 점에서 깊이를 인정받고 있습니다. 그러나, Jennie의 대중성에 대한 의견이 더 폭넓고 다양한 측면에서 제시되어, 최종적으로 Jennie의 글로벌 인지도가 더 높다고 판단되었습니다.",
+      "metadata": {
+        "used_prompt_uris": [
+          "v_2_0_2.yaml"
+        ]
+      },
+      "judgement_percentage": [
+        {
+          "camp_id": "686bff1d5c4d71801a089329",
+          "percentage": 50
+        },
+        {
+          "camp_id": "686bff1d5c4d71801a08932a",
+          "percentage": 50
+        }
+      ]
+    },
+    {
+      "topic_id": "686bff1d5c4d71801a08932b",
+      "win_camp_id": "686bff1d5c4d71801a08932a",
+      "ai_conclusion": "Jennie가 51프로, Faker가 49프로의 비중으로 평가되었습니다. Jennie에 대한 의견들은 그녀의 글로벌 대중성, K-POP 열풍을 이끄는 역할, 다양한 분야에서의 활동을 강조하며, SNS 팔로워 수와 블랙핑크의 월드투어 규모를 통해 그녀의 인지도를 뒷받침하고 있습니다. 반면, Faker에 대한 의견들은 그의 e스포츠에서의 상징성과 영향력, 그리고 게임 팬들 사이에서의 인지도를 강조하고 있습니다. Jennie의 대중성에 대한 주장은 더 다양한 측면에서의 활동과 구체적인 지표(SNS 팔로워 수 등)를 제시하여 설득력이 높았습니다. 따라서 Jennie가 약간 더 높은 비중으로 평가되었습니다.",
+      "metadata": {
+        "used_prompt_uris": [
+          "v_2_0_2.yaml"
+        ]
+      },
+      "judgement_percentage": [
+        {
+          "camp_id": "686bff1d5c4d71801a089329",
+          "percentage": 49
+        },
+        {
+          "camp_id": "686bff1d5c4d71801a08932a",
+          "percentage": 51
+        }
+      ]
+    },
+    {
+      "topic_id": "686bff1d5c4d71801a08932b",
+      "win_camp_id": "686bff1d5c4d71801a08932a",
+      "ai_conclusion": "Jennie가 52프로, Faker가 48프로의 비중으로 평가되었습니다. Jennie에 대한 의견은 그녀의 글로벌 대중성, K-POP 열풍을 이끄는 역할, 다양한 분야에서의 활동을 강조하며, SNS 팔로워 수와 블랙핑크의 월드투어 규모를 통해 그녀의 인지도를 뒷받침하고 있습니다. 이러한 점들은 Jennie의 대중적 인지도를 높이는 강력한 증거로 작용합니다. 반면, Faker에 대한 의견은 그의 e스포츠에서의 상징성과 전문성을 강조하며, 게임 팬들 사이에서의 높은 인지도를 언급하고 있습니다. 그러나 대중성 면에서는 Jennie가 더 높은 평가를 받았으며, 이는 다양한 분야에서의 활동과 글로벌 인지도를 통해 잘 뒷받침되고 있습니다.",
+      "metadata": {
+        "used_prompt_uris": [
+          "v_2_0_2.yaml"
+        ]
+      },
+      "judgement_percentage": [
+        {
+          "camp_id": "686bff1d5c4d71801a089329",
+          "percentage": 48
+        },
+        {
+          "camp_id": "686bff1d5c4d71801a08932a",
+          "percentage": 52
+        }
+      ]
+    },
+    {
+      "topic_id": "686bff1d5c4d71801a08932b",
+      "win_camp_id": "686bff1d5c4d71801a08932a",
+      "ai_conclusion": "Jennie가 52프로, Faker가 48프로의 비중으로 평가되었습니다. Jennie에 대한 의견들은 그녀의 글로벌 대중성, 다양한 분야에서의 활동, 그리고 SNS 팔로워 수와 같은 구체적인 지표를 제시하며 그녀의 인지도를 강조했습니다. 특히, Jennie의 K-POP 열풍 주도와 블랙핑크의 월드투어 규모가 그녀의 유명세를 뒷받침하는 강력한 증거로 제시되었습니다. 반면, Faker에 대한 의견은 그의 e스포츠 분야에서의 상징성과 전문성을 강조했지만, 대중성 면에서는 Jennie에 비해 상대적으로 약한 논거를 보였습니다. 따라서, Jennie의 대중성과 다양한 분야에서의 활동이 더 설득력 있게 다가왔습니다.",
+      "metadata": {
+        "used_prompt_uris": [
+          "v_2_0_2.yaml"
+        ]
+      },
+      "judgement_percentage": [
+        {
+          "camp_id": "686bff1d5c4d71801a089329",
+          "percentage": 48
+        },
+        {
+          "camp_id": "686bff1d5c4d71801a08932a",
+          "percentage": 52
+        }
+      ]
+    },
+    {
+      "topic_id": "686bff1d5c4d71801a08932b",
+      "win_camp_id": "686bff1d5c4d71801a08932a",
+      "ai_conclusion": "Jennie가 52프로, Faker가 48프로의 비중으로 평가되었습니다. Jennie에 대한 의견들은 그녀의 글로벌 대중성, 다양한 분야에서의 활동, 그리고 SNS 팔로워 수를 근거로 그녀의 인지도가 높다고 주장합니다. 특히, 블랙핑크의 월드투어와 K-POP 열풍을 통해 그녀의 유명세를 강조합니다. 반면, Faker에 대한 의견들은 그의 e스포츠에서의 상징성과 게임 팬들 사이에서의 인기를 강조하지만, 대중성 면에서는 Jennie에 비해 약간 부족하다는 인상을 줍니다. 종합적으로 Jennie의 대중적 인지도가 더 넓은 범위에 걸쳐 있다는 점에서 Jennie가 약간 더 설득력 있는 주장을 펼쳤다고 판단됩니다.",
+      "metadata": {
+        "used_prompt_uris": [
+          "v_2_0_2.yaml"
+        ]
+      },
+      "judgement_percentage": [
+        {
+          "camp_id": "686bff1d5c4d71801a089329",
+          "percentage": 48
+        },
+        {
+          "camp_id": "686bff1d5c4d71801a08932a",
+          "percentage": 52
+        }
+      ]
+    }
+  ],
+  "metrics": {
+    "winner_consistency": 0,
+    "win_rate_similarity": null,
+    "explanation_similarity": 1.0,
+    "vocab_diversity": 0,
+    "length_mean": 0.0,
+    "length_std": 0.0
+  }
+}

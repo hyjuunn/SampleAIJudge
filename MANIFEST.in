@@ -1,0 +1,5 @@
+include lib/*.py
+recursive-include lib/prompt_metadata *.yaml
+recursive-include lib/prompt_metadata *.md
+include lib/oracle_mvp_ai/prompt_metadata/*.yaml
+include lib/oracle_mvp_ai/prompt_metadata/README.md 
